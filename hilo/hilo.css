@@ -1,0 +1,17 @@
+body{
+    background: #ccc;
+}
+
+#container{
+    background: #fff;
+    margin: 50px auto;
+    width: 400px;
+}
+
+#menu{
+    border-bottom: 1px solid #999;
+}
+
+#guesses{
+    min-height: 200px;
+}
